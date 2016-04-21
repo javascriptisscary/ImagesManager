@@ -8,7 +8,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    Welcome, please login or create an account.
+                    You are logged in!
                 </div>
             </div>
         </div>

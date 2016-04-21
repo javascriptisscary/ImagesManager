@@ -14,6 +14,12 @@ class UserController extends Controller
     }
     
     
+     public function getIndex()
+    {
+        return 'Showing the list of users';
+    }
+    
+    
     
     
     public function getEditProfile()
